@@ -2,6 +2,10 @@
 
 Dijital mantık kapıları eğitim simülatörü - React + Vite + Capacitor ile mobil uyumlu.
 
+MeteHoca'nın "Logicboard 2" kartından ilham alınarak açık kaynak kodlu olarak paylaşılmıştır.
+
+https://www.metehoca.com/akademi/elektronik-akademi/logicboard-2-lojik-kapi-egitim-karti-mete-hoca-2924/
+
 ## 🚀 Özellikler
 
 - ✅ İnteraktif mantık kapıları breadboard simülatörü
