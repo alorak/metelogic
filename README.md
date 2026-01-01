@@ -70,4 +70,4 @@ npm run cap:open:ios
 
 ## 📄 Lisans
 
-© 2024 Alorak Games - Tüm hakları saklıdır.
+MIT
